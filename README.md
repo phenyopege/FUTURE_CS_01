@@ -15,5 +15,11 @@ This is a non-intrusive security assessment project for a live demo website, the
 - Exploitation of any of the vulnerabilities
 - Brute force attacks or denial of service tests
 
+## Tools used 
+- Nmap | open port and service detection
+- OWASP ZAP (passive mode) | passive analysis while browsing the site
+- Browser DevTools| inspect headers, cookies, client side behaviour 
+- Canva | for designing the final report 
+
 ## Disclamer
 This assessment project is/was performed for educational purposes on a website that is intentionally provided for security testing. 
